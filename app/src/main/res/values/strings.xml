@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Football Club</string>
+
+    <string-array name="club_name">
+        <item>Barcelona FC</item>
+        <item>Real Madrid FC</item>
+        <item>Bayern Munchen FC</item>
+        <item>Manchester City FC</item>
+        <item>Manchester United FC</item>
+        <item>Chelsea FC</item>
+        <item>AC Milan FC</item>
+        <item>Arsenal FC</item>
+    </string-array>
+
+    <string-array name="club_desc">
+        <item>Fútbol Club Barcelona, juga dikenal sebagai Barcelona atau Barça, adalah klub sepak bola profesional yang berbasis di Barcelona, Catalunya, Spanyol.
+
+Didirikan pada tahun 1899 oleh sekelompok pemain Swiss, Inggris dan Catalan yang dipimpin oleh Joan Gamper, klub telah menjadi simbol budaya Catalan dan Catalanisme, yang mempunyai motto "Més que un club" (Lebih dari sebuah klub). Tidak seperti banyak klub sepak bola lainnya, para pendukung memiliki dan mengoperasikan Barcelona. Ia adalah klub sepak bola kedua terkaya di dunia dalam hal pendapatan, dengan omset tahunan sebesar €560,8 juta dan kedua yang paling berharga, senilai $3,56 miliar. Lagu kebangsaan resmi Barcelona adalah "Cant del Barça", yang ditulis oleh Jaume Picas dan Josep Maria Espinas.
+
+Klub ini masuk menjadi peserta Primera División (Divisi Utama) sejak tahun 1928, dan bersama-sama Real Madrid dan Athletic Bilbao menjadi tim yang tak pernah terdegradasi ke Segunda División (Divisi Dua). Klub ini juga menjadi klub yang menjuarai liga Spanyol pertama kali. Dengan persembahan 23 gelar Liga Spanyol, 25 gelar Copa del Rey, 10 gelar Piala Super Spanyol, 5 gelar Liga Champions Eropa, 4 gelar Piala UEFA, 4 gelar Piala Super Eropa, FC Barcelona menjadi salah satu tim tersukses di Spanyol, Eropa, dan dunia. Bukti paling nyata ketika pada tahun 2009 FC Barcelona berhasil menjadi klub Spanyol pertama yang berhasil meraih gelar Treble (juara La Liga, Copa del Rey, dan Liga Champions). Dilanjutkan dengan raihan gelar Piala Super Spanyol, Piala Super Eropa dan Piala Dunia Antarklub FIFA untuk melengkapi raihan gelarnya menjadi Sextuples. Barcelona merupakan klub sepak bola pertama di dunia yang melakukan raihan ini. Penggemar Barca juga sering disebut Culés.
+
+Barcelona adalah salah satu tim yang paling didukung di dunia, dan memiliki media sosial terbesar di antara tim olahraga lainnya. Pemain Barca telah memenangkan catatan jumlah penghargaan Ballon d'Or , serta catatan jumlah penghargaan FIFA World Player of the Year . Pada tahun 2010, klub membuat sejarah ketika tiga pemain yang datang melalui akademinya (Messi, Iniesta &amp; Xavi) terpilih sebagai tiga pemain terbaik di dunia, setelah mengantongi tempat teratas di FIFA Ballon d'Or, prestasi belum pernah terjadi sebelumnya untuk pemain dari sekolah sepak bola yang sama. </item>
+
+        <item>Real Madrid Club de Fútbol (pengucapan bahasa Spanyol: [reˈal maˈðɾið ˈkluβ ðe ˈfutβol]; Royal Madrid Football Club), umumnya dikenal sebagai Real Madrid, adalah klub sepak bola profesional yang berbasis di Madrid, Spanyol.
+
+Didirikan pada tahun 1902 sebagai Madrid Football Club, secara tradisional mengenakan kostum kandang putih. Kata Real ("dari kerajaan") Spanyol dan dianugerahkan ke klub oleh Raja Alfonso XIII pada tahun 1920 bersama-sama dengan mahkota kerajaan di lambang klub. Klub ini telah memainkan pertandingan kandang di Stadion Santiago Bernabéu dengan kapasitas 85.454 di pusat kota Madrid sejak tahun 1947.
+
+Klub ini adalah klub sepak bola terkaya di dunia dalam hal pendapatan, dengan omset tahunan sebesar €513 juta dan paling berharga, senilai €3.3 miliar. Ini adalah salah satu dari tiga klub untuk tidak pernah terdegradasi dari papan atas sepak bola Spanyol, bersama dengan Athletic Bilbao dan Barcelona. Real Madrid memiliki banyak persaingan lama, terutama El Clásico dengan Barcelona dan El Derbi madrileño dengan Atlético Madrid.
+
+Klub ini memantapkan dirinya sebagai kekuatan utama dalam sepak bola Spanyol dan Eropa selama tahun 1950. Di dalam negeri, Klub ini juga merupakan salah satu klub terbaik abad ke-20 menurut FIFA. Klub ini telah meraih 32 gelar La Liga, 18 gelar Copa del Rey, 8 Piala Super Spanyol, 1 Copa Eva Duarte, 1 Copa de la Liga, 11 gelar Piala Eropa/Liga Champions UEFA, 2 Piala UEFA, 2 Piala Super UEFA, 3 Piala Interkontinental dan 2 Piala Dunia Antarklub FIFA. </item>
+
+        <item>Fußball-Club Bayern München e.V., juga dikenal sebagai FC Bayern München (pengucapan bahasa Jerman: [ʔɛf ˈt͡seː ˈbaɪ̯ɐn ˈmʏnçən]), FC Bayern Munich, atau FC Bayern, adalah sebuah klub olahraga Jerman yang berbasis di München, Bavaria. Hal ini terkenal karena tim sepak bola profesional, yang bermain di Bundesliga, peringkat teratas sistem liga sepak bola Jerman, dan merupakan klub paling sukses dalam sejarah sepak bola Jerman, setelah memenangkan rekor 28 gelar nasional dan 18 piala nasional.
+
+FC Bayern didirikan pada tahun 1900 oleh sebelas pemain sepak bola yang dipimpin oleh Franz John. Meskipun Bayern memenangkan kejuaraan nasional pertamanya pada tahun 1932, klub tersebut tidak dipilih untuk Bundesliga pada awal tahun 1963. Klub memiliki periode yang sukses terbesar di tengah tahun 1970-an, di bawah kapten dari Franz Beckenbauer, memenangkan Piala Eropa tiga kali berturut-turut (1974-1976). Secara keseluruhan, Bayern telah mencapai sepuluh final Piala Eropa/Liga Champions, yang terakhir memenangkan gelar kelima mereka pada tahun 2013 sebagai bagian dari treble benua. Bayern juga telah memenangkan satu Piala UEFA, satu Piala Winners UEFA, satu Piala Super UEFA, dua Piala Interkontinental dan satu Piala Dunia Antarklub FIFA, membuatnya menjadi salah satu klub Eropa yang paling sukses di dunia. Sejak pembentukan Bundesliga, Bayern telah menjadi klub yang dominan dalam sepak bola Jerman dengan 28 gelar dan telah memenangkan 10 dari 14 gelar terakhir. Mereka memiliki persaingan lokal tradisional dengan TSV 1860 München dan 1. FC Nürnberg, serta persaingan kontemporer dengan Borussia Dortmund.
+
+Sejak awal musim 2005-06, Bayern telah memainkan pertandingan kandang di Allianz Arena. Sebelumnya tim telah bermain di Olympiastadion München selama 33 tahun. Warna tim merah dan putih, dan puncak tim menunjukkan bendera putih dan biru Bavaria. Dalam hal pendapatan, Bayern München adalah klub olahraga terbesar di Jerman dan klub sepak bola terbesar keempat di dunia, menghasilkan €587,8 juta pada tahun 2017. Pada musim 2016–17, Bayern memperoleh pendapatan €640,5 juta dengan laba operasional €149,1 juta, menandakan keuntungan finansial selama 25 tahun berturut-turut. Pada bulan November 2017, Bayern memiliki 290.000 anggota resmi dan terdapat 4.327 klub penggemar resmi terdaftar dengan lebih dari 314.000 anggota. Klub ini memiliki departemen lain untuk catur, bola tangan, basket, senam, bowling, tenis meja, wasit, dan sepak bola senior lebih dari 1.100 anggota aktif.
+
+FC Bayern saat ini kedua dalam peringkat koefisien klub UEFA. </item>
+
+        <item>Manchester City Football Club (dikenal pula sebagai Man City atau The Citizens) adalah sebuah klub sepak bola profesional dari Inggris yang bermain di Liga Premier Inggris. Klub ini merupakaan klub sekota dengan Manchester United dan bermarkas di Stadion Etihad, Manchester.
+
+Pertandingan pertama dimainkan pada bulan November 1880. Pada saat itu masih bernama St Mark's (West Gorton). Pada tahun 1887 berubah nama menjadi Ardwick A.F.C, dan pada tahun 1894 menjadi Manchester City F.C.
+
+Manchester City telah memenangi Liga Inggris sebanyak 4 kali, Piala FA 5 kali, Piala Liga Inggris 4 kali, dan Piala Winners Eropa 1 kali. Periode tersukses klub ini terjadi pada era akhir tahun 1960-an dan awal 1970-an. Pada saat itu City di bawah asuhan manager Joe Mercer dengan asistennya Malcolm Allison dan beberapa pemain seperti Colin Bell, Mike Summerbee dan Francis Lee.
+
+Pada awal tahun 1980-an City mengalami masa penuh gejolak penurunan yang berpuncak pada degradasi ke tingkat ketiga sistem liga sepak bola Inggris pada tahun 1998 untuk pertama kalinya dalam sejarah mereka. Pada saat era Liga Primer Inggris pertama kali dibentuk tahun 1992, City adalah salah satu pencetus liga premier untuk pertama kali. Namun, prestasi klub ini tidak kunjung membaik, bahkan City harus terdegradasi kembali ke tingkat kedua hingga 2 kali, sementara di ajang Piala FA sejak bergulirnya Liga Primer Inggris, prestasi terbaik City hanya sampai pada perempat-final.
+
+Setelah mengakhiri liga di musim 2006-07 pada posisi empatbelas, musim berikutnya prestasi klub mulai merangkak naik. Pertengahan tahun 2007 klub ini resmi menjadi milik milyarder asal Thailand yang ambisius dan juga adalah mantan Perdana Menteri Thailand, Thaksin Shinawatra. Namun, kepemilikan Thaksin tidak berlangsung lama dikarenakan tuduhan kasus korupsi di negeranya, akhirnya pada September 2008 Thaksin menjual kepemilikan klub kepada pengusaha yang juga anggota keluarga kerajaan Abu Dhabi, Uni Emirat Arab yaitu Sheikh Mansour bin Zayed Al Nahyan.
+
+Sheikh Mansour bin Zayed Al Nahyan kemudian menghabiskan ratusan jutaan poundsterling untuk membeli pemain kelas atas agar klub menjadi kompetitif. Sukses menyusul pada tahun 2011, Manchester City lolos ke Liga Champions UEFA dan memenangkan Piala FA. Keberhasilan ini mencapai puncaknya dengan menjuarai Liga Premier Inggris 2011-12. </item>
+
+        <item>Manchester United Football Club adalah sebuah klub sepak bola profesional Inggris yang berbasis di Old Trafford, Manchester Raya, yang bermain di Liga Inggris. Didirikan sebagai Newton Heath LYR Football Club pada tahun 1878, klub ini berganti nama menjadi Manchester United pada 1902 dan pindah ke Old Trafford pada tahun 1910.
+
+Manchester United telah memenangkan banyak trofi di sepak bola Inggris, termasuk rekor 20 gelar Liga, 12 Piala FA, empat Piala Liga dan rekor 21 FA Community Shield. Klub ini juga telah memenangkan tiga Piala Eropa, Piala UEFA satu Piala Winners UEFA, satu Piala Super UEFA, satu Piala Interkontinental dan satu Piala Dunia Antarklub FIFA. Pada 1998-1999, klub memenangkan treble dari Liga Premier, Piala FA dan Liga Champions, prestasi belum pernah terjadi sebelumnya untuk klub Inggris.
+
+Bencana Udara München 1958 merenggut nyawa delapan pemain. Pada tahun 1968, di bawah manajemen Matt Busby, Manchester United adalah klub sepak bola Inggris pertama yang memenangkan Piala Eropa. sedangkan Alex Ferguson memenangkan total 38 gelar utama, dari bulan November 1986 sampai Mei 2013, ketika ia mengumumkan pensiun setelah 26 tahun di klub. Rekan Scot David Moyes diangkat sebagai penggantinya pada tanggal 9 Mei 2013.
+
+Manchester United adalah klub sepak bola terkaya ketiga di dunia untuk 2011-12 dalam hal pendapatan, dengan pendapatan tahunan sebesar €395.9 juta, dan kedua klub paling berharga tahun 2013, senilai $3.165 miliar. Dan pada bulan Januari 2015 lalu, Manchester United dinobatkan sebagai klub terkaya kedua di dunia, Ini adalah salah satu tim sepak bola yang paling banyak didukung di dunia. Setelah sahamnya tercatat di London Stock Exchange pada tahun 1991, klub itu dibeli oleh Malcolm Glazer pada Mei 2005 di kesepakatan menilai klub di hampir £800 juta. Pada bulan Agustus 2012, Manchester United melakukan penawaran umum perdana di Bursa Efek New York. </item>
+
+        <item>Chelsea Football Club /ˈtʃɛlsiː/ adalah sebuah klub sepak bola Inggris yang bermarkas di Fulham, London. Chelsea didirikan pada tahun 1905 dan kini berkompetisi di Liga Utama Inggris.
+
+Kesuksesan pertama Chelsea diraih saat meraih gelar juara liga pada tahun 1955. Beberapa gelar dari berbagai kompetisi juga berhasil diraih pada dekade 1960an, 1970an, 1990an, dan 2000an. Sepanjang sejarah penampilan dalam dunia sepak bola di Inggris dan Eropa, Chelsea telah meraih enam gelar juara Liga Utama Inggris, tujuh Piala FA, lima Piala Liga, satu trofi Liga Champions UEFA, dua Piala Winners UEFA, satu Liga Eropa UEFA dan satu Piala Super UEFA. Dalam dua dekade terakhir merupakan periode terbaik kesuksesan Chelsea dengan meraih 22 gelar sejak tahun 1997, termasuk untuk pertama kali meraih gelar juara Double winner, Liga Utama Inggris dan Piala FA pada tahun 2010 serta gelar juara Liga Champions UEFA pada tahun 2012 dan Liga Eropa UEFA pada 2013.
+
+Kostum utama Chelsea adalah kaus dan celana berwarna biru royal dengan kaus kaki berwarna putih. Kombinasi tersebut telah digunakan sejak dekade 1960an. Lambang klub telah berganti beberapa kali dalam upaya memodernisasi dan mengubah pencitraan. Lambang yang kini digunakan, yang menampilan seekor singa seremonial memegang sebuah tongkat, merupakan modifikasi dari lambang yang pernah digunakan pada dekade 1950an. Sejak tahun 2003, Chelsea dimiliki oleh Roman Abramovich seorang miliuner asal Rusia. Pada tahun 2016, Chelsea mendapat peringkat ketujuh klub sepak bola paling bernilai di dunia versi majalah Forbes, senilai £1.15 miliar ($1.66 miliar). Rata-rata jumlah penonton liga pada laga kandang musim 2016–17 sebanyak 41.507 penonton, jumlah tertinggi keenam di Liga Utama Inggris. </item>
+
+        <item>Associazione Calcio Milan (pengucapan bahasa Italia: [assotʃatˈtsjoːne ˈkaltʃo ˈmiːlan]), sering disebut sebagai A.C. Milan atau hanya Milan, adalah sebuah klub sepak bola Italia yang berbasis di Milan, Lombardia, yang bermain di Serie A. Mereka bermain dengan seragam bergaris merah-hitam dan celana putih (kadang-kadang hitam), sehingga dijuluki rossoneri ("merah-hitam"). Milan adalah tim tersukses kedua dalam sejarah persepak bolaan Italia, menjuarai Serie A 18 kali dan Piala Italia 5 kali.
+
+Mereka adalah klub paling sukses di dunia sepak bola dalam hal piala internasional bersama dengan Boca Juniors, dengan 18 gelar resmi diakui UEFA dan FIFA. Milan telah memenangkan rekor tiga Piala Interkontinental dan setelah penggantinya, Piala Dunia Antarklub FIFA. Milan juga memenangkan Piala Liga Eropa/Champions tujuh kali.yang kedua setelah Real Madrid. Mereka juga memenangkan rekor Piala Super UEFA lima kali dan Piala Winners UEFA dua kali. Milan memenangkan setiap kompetisi besar di mana ia telah berkompetisi, terkecuali untuk Liga Eropa UEFA (dalam kompetisi ini mereka telah kehilangan dua semifinal pada tahun 1972 dan pada tahun 2002). Secara domestik, dengan 18 gelar liga. Milan adalah gabungan kedua klub paling sukses di Serie A di belakang Juventus (31 gelar), bersama dengan rival lokal Inter. Mereka juga telah memenangkan Coppa Italia lima kali, serta rekor enam kemenangan Supercoppa Italiana.
+
+Klub ini didirikan pada tahun 1899 dengan nama Klub Kriket dan Sepak bola Milan (Milan Cricket and Football Club) oleh Alfred Edwards dan Herbert Kilpin, seorang ekspatriat Inggris. Sebagai penghormatan terhadap asal usulnya, Milan tetap menggunakan ejaan bahasa Inggris nama kotanya (Milan) daripada menggunakan ejaan bahasa Italia Milano.
+
+Laga kandang Milan dimainkan di San Siro, juga dikenal sebagai Stadion Giuseppe Meazza. Stadion yang bersama dengan Inter, merupakan yang terbesar di sepak bola Italia, dengan total kapasitas 80.018. Inter dianggap rival terbesar mereka, dan pertandingan antara kedua tim disebut Derby della Madonnina, yang merupakan salah satu derbi yang paling diikuti di dunia sepak bola. Pada 2010, Milan adalah ketiga tim yang paling didukung di Italia, dan ketujuh tim yang paling didukung di Eropa, menjelang tim lain Italia.
+
+Pemilik klub sebelumnya adalah mantan Perdana Menteri Italia Silvio Berlusconi, dan wakil presiden adalah Adriano Galliani. Klub ini adalah salah satu yang terkaya dan paling berharga di sepak bola Italia dan dunia. Itu adalah anggota pendiri yang kini tidak berfungsi G-14 kelompok klub sepak bola terkemuka Eropa serta penggantinya, Asosiasi Klub Eropa. </item>
+
+        <item>Arsenal Football Club (dikenal pula sebagai Arsenal atau The Gunners) adalah klub sepak bola profesional Inggris yang berbasis di daerah Holloway, London. didirikan pada 1886 dengan nama Dial Square. Klub ini bermain di Liga Utama Inggris yang termasuk salah satu klub tersukses di sepak bola Inggris, yang telah memenangkan 13 gelar kasta utama Liga Inggris (10 pada era Divisi Pertama dan 3 pada era Premier League) dan 13 gelar di Piala FA (Gelar paling banyak). Arsenal memegang rekor untuk periode terpanjang berada di kasta puncak Liga Inggris tanpa pernah terdegradasi sejak musim 1919 dan menjadi tim pada peringkat pertama dalam klasemen Liga Inggris sepanjang abad ke-20. Arsenal menjadi tim kedua di Inggris yang menyelesaikan semusim liga tanpa kalah (musim 2003–04) dan tim pertama yang melakukannya pada era di mana satu musim berlangsung 38 pertandingan.
+
+Arsenal didirikan pada 1886 di Woolwich dan pada tahun 1893 menjadi klub pertama dari selatan Inggris untuk bergabung dengan Football League. Pada tahun 1913, hal itu bergerak ke utara melintasi kota Stadion Arsenal di Highbury. Pada 1930, klub telah memenangkan lima gelar Liga Championship dan dua Piala FA. Setelah periode bersandar pada tahun-tahun pasca-perang itu memenangkan Liga dan Piala FA ganda, di musim 1970-71, dan pada 1990-an dan dekade pertama abad ke-21 memenangkan dua gelar ganda dan mencapai Final Liga Champions UEFA 2006.
+
+Arsenal memiliki persaingan lama dengan tim sesama London Utara Tottenham Hotspur, dengan kontes North London derby. Arsenal adalah klub sepak bola terkaya keempat di dunia pada tahun 2013, senilai lebih dari $13 miliar. Di kancah Premier League, Arsenal termasuk salah satu tim yang tidak pernah terdegradasi. Arsenal merupakan tim sepak bola pertama yang memperkenalkan penggunaan angka pada jersey. </item>
+    </string-array>
+
+    <array name="club_image">
+        <item>@drawable/img_barca</item>
+        <item>@drawable/img_madrid</item>
+        <item>@drawable/img_bayern</item>
+        <item>@drawable/img_city</item>
+        <item>@drawable/img_mu</item>
+        <item>@drawable/img_chelsea</item>
+        <item>@drawable/img_acm</item>
+        <item>@drawable/img_arsenal</item>
+    </array>
+</resources>
